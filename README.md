@@ -33,4 +33,4 @@ The application includes **role-based login**, **dashboard**, **products managem
 
 1. Clone the repository:
 ```bash
-git clone <YOUR_GITHUB_URL>
+git clone <URL>
